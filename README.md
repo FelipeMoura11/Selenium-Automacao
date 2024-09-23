@@ -19,10 +19,5 @@ Este projeto implementa um script em Python que utiliza o Selenium para automati
 - **PyODBC**: Integração com o banco de dados SQL Server.
 - **WebDriver Manager**: Gerenciamento automático do WebDriver do Chrome.
 
-## Requisitos
-- Selenium
-- WebDriver Manager
-- BeautifulSoup
-- PyODBC
-- Driver ODBC para SQL Server
+
 
